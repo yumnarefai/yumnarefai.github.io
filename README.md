@@ -1,7 +1,10 @@
-**Software Engineer | LLM Research | Gem Enthusiast | Athlete**
+# About Me
+**Software Engineer | LLM Reseach | Gem Enthusiast | Athlete**
 
 📧 [yumna.refai@mail.utoronto.ca](mailto:yumna.refai@mail.utoronto.ca)  
+
 🌐 [LinkedIn](https://www.linkedin.com/in/yumna-refai-32a5765b/)
+
 📃 [Resume](https://drive.google.com/file/d/15skSJNloOMEuaSd35V73deY0Y6o568WU/view?usp=sharing)
 
 ## Technical Expertise
