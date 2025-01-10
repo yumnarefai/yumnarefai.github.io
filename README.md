@@ -5,14 +5,13 @@
 🌐 [LinkedIn](https://www.linkedin.com/in/yumna-refai-32a5765b/)
 📃 [Resume](https://drive.google.com/file/d/15skSJNloOMEuaSd35V73deY0Y6o568WU/view?usp=sharing)
 
-Besides 👩🏽‍💻, I love to run 🏃🏽‍♀️, make pots 🫖 and kayak 🚣🏾‍♀️ .
-
-
 ## Technical Expertise
 - **Languages:** Python, Java, C, React  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes  
 - **Machine Learning:** Designing and deploying models using PyTorch for real-time applications  
 - **Applications:** Building scalable cloud-based applications, optimizing for performance and scalability  
+
+Besides 👩🏽‍💻, I love to run 🏃🏽‍♀️, make pots 🫖 and kayak 🚣🏾‍♀️ .
 
 ---
 
