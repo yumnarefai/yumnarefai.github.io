@@ -13,7 +13,7 @@
 
 ---
 
-### Education
+## Education
 **Bachelor of Science in Computer Science (Specialist)**  
 *University of Toronto*  
 *Expected Graduation: 2025*
@@ -51,12 +51,7 @@
 
 ---
 
-## Research Projects & Highlights  
-
-- **AI/LLM Research**: Contributed to projects focused on deploying large language models (LLMs) and optimizing them for real-world applications in AI-driven tools.  
-- **Database Systems**: Worked on relational and non-relational database systems, focusing on optimizing data retrieval and query efficiency.  
-- **Machine Learning & AI Ethics**: Explored the intersection of machine learning and AI ethics, developing AI models with fairness and transparency considerations.
-
+## Research Projects 
 - **CSC454/491 Capstone Projects**: Product Pitch & Demo  
 - **CSC311 Machine Learning Project**:  
     - **Collaborative Filtering with k-Nearest Neighbor (kNN)**: Implemented user-based collaborative filtering using the k-Nearest Neighbor algorithm, predicting student performance by leveraging similarity in answer patterns with other students.  
@@ -67,6 +62,14 @@
 - **CSC309 PetPal Adoption App**: Employed Django and Python in the creation of the backend infrastructure for the PetPal adoption application. Used React to develop the frontend UI of PetPal adoption application.
 
 ---
+
+## Highlights  
+- **AI/LLM Research**: Contributed to projects focused on deploying large language models (LLMs) and optimizing them for real-world applications in AI-driven tools.  
+- **Database Systems**: Worked on relational and non-relational database systems, focusing on optimizing data retrieval and query efficiency.  
+- **Machine Learning & AI Ethics**: Explored the intersection of machine learning and AI ethics, developing AI models with fairness and transparency considerations.
+
+---
+
 ## Extracurricular Activities
 - External Outreach Director @illuminAIte
 - Pottery
