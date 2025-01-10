@@ -25,7 +25,7 @@
   - Database Management
   - Human-Computer Interaction
   - Programming Languages and Compilers
- 
+ ![Profile Image](/assets/images/profile.jpg) 
  ---
  
 ## Professional Experience
