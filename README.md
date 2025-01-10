@@ -7,6 +7,9 @@
 
 📃 [Resume](https://drive.google.com/file/d/15skSJNloOMEuaSd35V73deY0Y6o568WU/view?usp=sharing)
 
+Besides 👩🏽‍💻, I love to run 🏃🏽‍♀️, make pots 🫖 and kayak 🚣🏾‍♀️ .
+
+
 ## Technical Expertise
 - **Languages:** Python, Java, C, React  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes  
@@ -73,9 +76,4 @@
 - **Machine Learning & AI Ethics**: Explored the intersection of machine learning and AI ethics, developing AI models with fairness and transparency considerations.
 
 ---
-
-## Extracurricular Activities
-- External Outreach Director @illuminAIte
-- Pottery
-- 5K / 10K Running
 
