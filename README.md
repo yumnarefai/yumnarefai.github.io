@@ -32,7 +32,6 @@
 
 ### Data Engineer Intern  
 **Roche, Canada**  
-# insert roche logo
 *May 2024 - August 2024*  
 - Developed an LLM-based SQL agent, *Agent Spot*, for in-silico cohort creation in early cancer detection using Python and Anthropic Claude.  
 - Managed embeddings using vector databases with Amazon Titan Embeddings hosted by Bedrock.  
