@@ -25,13 +25,14 @@
   - Database Management
   - Human-Computer Interaction
   - Programming Languages and Compilers
- ![Profile Image](/assets/images/profile.jpg) 
+
  ---
  
 ## Professional Experience
 
 ### Data Engineer Intern  
 **Roche, Canada**  
+# insert roche logo
 *May 2024 - August 2024*  
 - Developed an LLM-based SQL agent, *Agent Spot*, for in-silico cohort creation in early cancer detection using Python and Anthropic Claude.  
 - Managed embeddings using vector databases with Amazon Titan Embeddings hosted by Bedrock.  
@@ -53,12 +54,14 @@
 
 ## Research Projects 
 - **CSC454/491 Capstone Projects**: Product Pitch & Demo  
-- **CSC311 Machine Learning Project**:  
+
+- **CSC311 Machine Learning Project**: Machine Learning for Educational Data Analysis  
     - **Collaborative Filtering with k-Nearest Neighbor (kNN)**: Implemented user-based collaborative filtering using the k-Nearest Neighbor algorithm, predicting student performance by leveraging similarity in answer patterns with other students.  
     - **Item Response Theory (IRT) Model**: Developed a one-parameter IRT model to estimate the probability of a student answering a question correctly, based on their ability and the question's difficulty.  
     - **Neural Networks**: Designed and trained an autoencoder model to learn user-question interactions, enabling predictions of user responses to unseen questions, facilitating efficient representation learning for personalized recommendations.
 
 - **CSC301 TDS News Journalism AI Agent Project**: Streamlined LLM deployment with AI journalist agents at a news tech corporation, leveraging Django, AWS, Nginx, React, WordPress, and Django.  
+
 - **CSC309 PetPal Adoption App**: Employed Django and Python in the creation of the backend infrastructure for the PetPal adoption application. Used React to develop the frontend UI of PetPal adoption application.
 
 ---
