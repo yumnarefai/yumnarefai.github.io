@@ -1,5 +1,4 @@
-# Yumna Refai
-**Software Engineer | Gem Enthusiast | Athlete**
+**Software Engineer | LLM Research | Gem Enthusiast | Athlete**
 
 📧 [yumna.refai@mail.utoronto.ca](mailto:yumna.refai@mail.utoronto.ca)  
 🌐 [LinkedIn](https://www.linkedin.com/in/yumna-refai-32a5765b/)
