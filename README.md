@@ -1,19 +1,8 @@
-# About Me
-**Full Stack Software Engineer | LLM Research | Gem Enthusiast | Athlete**
-
-📧 [yumna.refai@mail.utoronto.ca](mailto:yumna.refai@mail.utoronto.ca)  
-🌐 [LinkedIn](https://www.linkedin.com/in/yumna-refai-32a5765b/)
-📃 [Resume](https://drive.google.com/file/d/15skSJNloOMEuaSd35V73deY0Y6o568WU/view?usp=sharing)
-
 ## Technical Expertise
 - **Languages:** Python, Java, C, React  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes  
 - **Machine Learning:** Designing and deploying models using PyTorch for real-time applications  
 - **Applications:** Building scalable cloud-based applications, optimizing for performance and scalability  
-
-Besides 👩🏽‍💻, I love to run 🏃🏽‍♀️, make pots 🫖 and kayak 🚣🏾‍♀️ .
-
----
 
 ## Education
 **Bachelor of Science in Computer Science (Specialist)**  
