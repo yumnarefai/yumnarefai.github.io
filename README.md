@@ -1,6 +1,6 @@
 ## Technical Expertise
 - **Languages:** Python, Java, C, Javascript, MySQL, R  
-- **Frameworks:** Langchain, LlamaIndex, ReactJS, Django, Node.js, Bootstrap, CSS, HTML, Figma, Jekyll
+- **Frameworks:** Langchain, LlamaIndex, Tensorflow, Pytorch, Google Cloud Platform, ReactJS, Django, Node.js, Bootstrap, CSS, HTML, Figma, Jekyll
 - **Databases / Developer Tools:** Amazon Web Services (AWS), Docker, PostgreSQL, Git
 
 ---
