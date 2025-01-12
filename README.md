@@ -1,8 +1,9 @@
 ## Technical Expertise
-- **Languages:** Python, Java, C, React  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes  
-- **Machine Learning:** Designing and deploying models using PyTorch for real-time applications  
-- **Applications:** Building scalable cloud-based applications, optimizing for performance and scalability  
+- **Languages:** Python, Java, C, Javascript, MySQL, R  
+- **Frameworks:** Langchain, LlamaIndex, ReactJS, Django, Node.js, Bootstrap, CSS, HTML, Figma 
+- **Databases / Developer Tools:** Amazon Web Services (AWS), Docker, PostgreSQL, Git
+
+---
 
 ## Education
 **Bachelor of Science in Computer Science (Specialist)**  
